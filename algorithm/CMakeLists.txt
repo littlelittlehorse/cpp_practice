@@ -1,0 +1,2 @@
+add_executable(fenwick fenwick.cpp)
+add_executable(wangyi_binary_tree wangyi_binary_tree.cpp)

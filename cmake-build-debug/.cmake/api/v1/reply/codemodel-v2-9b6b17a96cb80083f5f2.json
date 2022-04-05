@@ -1,0 +1,124 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1
+					],
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.21"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						2,
+						3,
+						4
+					]
+				},
+				{
+					"build" : "algorithm",
+					"jsonFile" : "directory-algorithm-Debug-61b3b964f08df19a6960.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.21"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "algorithm",
+					"targetIndexes" : 
+					[
+						1,
+						5
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1
+					],
+					"name" : "cpp_practice",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "cpp_practice::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-cpp_practice-Debug-cc85f22e21632b53c39e.json",
+					"name" : "cpp_practice",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "fenwick::@b8e9a88a05f6c4e5712f",
+					"jsonFile" : "target-fenwick-Debug-7283f61be29d4e892c7e.json",
+					"name" : "fenwick",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "move::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-move-Debug-d894cdf38c37ea8acdf9.json",
+					"name" : "move",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "open_nvm_file_test::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-open_nvm_file_test-Debug-843baa435368f2b0f707.json",
+					"name" : "open_nvm_file_test",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "placement_new::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-placement_new-Debug-3b3d51253a3688a321ac.json",
+					"name" : "placement_new",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "wangyi_binary_tree::@b8e9a88a05f6c4e5712f",
+					"jsonFile" : "target-wangyi_binary_tree-Debug-41863d202fa2f01c13e7.json",
+					"name" : "wangyi_binary_tree",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/ymkzpx/cpp_practice/cmake-build-debug",
+		"source" : "/Users/ymkzpx/cpp_practice"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

@@ -1,0 +1,10 @@
+/Users/ymkzpx/cpp_practice/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/ymkzpx/cpp_practice/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/ymkzpx/cpp_practice/cmake-build-debug/CMakeFiles/move.dir
+/Users/ymkzpx/cpp_practice/cmake-build-debug/CMakeFiles/placement_new.dir
+/Users/ymkzpx/cpp_practice/cmake-build-debug/CMakeFiles/open_nvm_file_test.dir
+/Users/ymkzpx/cpp_practice/cmake-build-debug/CMakeFiles/cpp_practice.dir
+/Users/ymkzpx/cpp_practice/cmake-build-debug/algorithm/CMakeFiles/rebuild_cache.dir
+/Users/ymkzpx/cpp_practice/cmake-build-debug/algorithm/CMakeFiles/edit_cache.dir
+/Users/ymkzpx/cpp_practice/cmake-build-debug/algorithm/CMakeFiles/wangyi_binary_tree.dir
+/Users/ymkzpx/cpp_practice/cmake-build-debug/algorithm/CMakeFiles/fenwick.dir
